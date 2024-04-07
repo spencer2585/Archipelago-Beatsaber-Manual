@@ -48,9 +48,88 @@
 		"progression": true
 	},
 	{
-		"count": "15",
-		"name": "Custom Songs Unlock",
-		"category": ["Custom Song Unlocks"],
-		"progression": true
-	}
+			"count": "1",
+			"name": "OST Vol. 6 Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+	},
+	{
+			"count": "1",
+			"name": "Monstercat Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+	},
+	{
+			"count": "1",
+			"name": "Rocket League Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	{
+			"count": "1",
+			"name": "BTS Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	{
+			"count": "1",
+			"name": "Interscope Mixtape Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	{
+			"count": "1",
+			"name": "Skrillex Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	 {
+			"count": "1",
+			"name": "Billie Eilish Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	{
+			"count": "1",
+			"name": "Lady Gaga Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	 {
+			"count": "1",
+			"name": "Fall Out Boy Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	 {
+			"count": "1",
+			"name": "Electronic Mixtape Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	{
+			"count": "1",
+			"name": "Lizzo Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	 {
+			"count": "1",
+			"name": "Imagine Dragons Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	 {
+			"count": "1",
+			"name": "Rock Mixtape Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		},
+	{
+			"count": "1",
+			"name": "The Weeknd Unlock",
+			"category": ["Pack Unlocks"],
+			"progression": true
+		}
+	
 ]
