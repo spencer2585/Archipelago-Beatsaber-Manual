@@ -2028,6 +2028,726 @@
 		"requires": []
 	},
 	{
+		"name": "Emperor's New Clothes (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	},
+	{
+		"name": "The Greatest Show (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	},
+	{
+		"name": "High Hopes (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Victorious (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Crazy = Genius (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Dancing's Not A Crime (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Hey Look Ma, I Made I (Pass)t",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Say Amen (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Sugar Soaker (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Viva Las Vengeance (Pass)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Father of All... (Pass)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Holiday (Pass)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Fire, Ready, Aim (Pass)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Minority (Pass)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Boulevard of Broken Dreams (Pass)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "American Idiot (Pass)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Dumb Thingz (Pass)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "Famous (Pass)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "Has a Meaning (Pass)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "What I Like (Pass)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "While We're Young (Pass)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "Breaking the Habit (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Faint (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Given Up (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "In the End (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "New Divide (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Numb (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "One Step Closer (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Papercut (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Somewhere I Belong (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "What I've Done (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Bleed It Out (Pass)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Remember the Name (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Numb/Encore (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "More the Victim (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Lost (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "In My Head (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Fighting Myself (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Crawling (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Already Over (Pass)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Bite My Head Off (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Can't You Hear Me Knocking (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Gimme Shelter (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Satisfaction (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Live By the Sword (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Mess It Up (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Paint It Black (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Start Me Up (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Sympathy For The Devil (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Whole Wide World (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Angry (Pass)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Around the World / Harder Better Faster Stronger (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Da Funk / Daftendirekt (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Get Lucky (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Harder, Better, Faster, Stronger (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Lose Yourself to Dance (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "One More Time (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Technologic (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "The Prime Time of Your Life (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Veridis Quo (Pass)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Emperor's New Clothes (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	},
+	{
+		"name": "The Greatest Show (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	},
+	{
+		"name": "High Hopes (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Victorious (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Crazy = Genius (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Dancing's Not A Crime (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Hey Look Ma, I Made It (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Say Amen (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Sugar Soaker (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Viva Las Vengeance (A+ Ranking)",
+		"region": "Panic at the Disco",
+		"category": ["Panic at the Disco"],
+		"requires": []
+	  },
+	  {
+		"name": "Father of All... (A+ Ranking)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Holiday (A+ Ranking)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Fire, Ready, Aim (A+ Ranking)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Minority (A+ Ranking)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Boulevard of Broken Dreams (A+ Ranking)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "American Idiot (A+ Ranking)",
+		"region": "Green Day",
+		"category": ["Green Day"],
+		"requires": []
+	  },
+	  {
+		"name": "Dumb Thingz (A+ Ranking)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "Famous (A+ Ranking)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "Has a Meaning (A+ Ranking)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "What I Like (A+ Ranking)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "While We're Young (A+ Ranking)",
+		"region": "Timbaland",
+		"category": ["Timbaland"],
+		"requires": []
+	  },
+	  {
+		"name": "Breaking the Habit (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Faint (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Given Up (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "In the End (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "New Divide (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Numb (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "One Step Closer (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Papercut (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Somewhere I Belong (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "What I've Done (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Bleed It Out (A+ Ranking)",
+		"region": "Linkin Park",
+		"category": ["Linkin Park"],
+		"requires": []
+	  },
+	  {
+		"name": "Remember the Name (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Numb/Encore (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "More the Victim (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Lost (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "In My Head (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Fighting Myself (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Crawling (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Already Over (A+ Ranking)",
+		"region": "Mike Shinoda",
+		"category": ["Mike Shinoda"],
+		"requires": []
+	  },
+	  {
+		"name": "Bite My Head Off (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Can't You Hear Me Knocking (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Gimme Shelter (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Satisfaction (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Live By the Sword (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Mess It Up (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Paint It Black (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Start Me Up (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Sympathy For The Devil (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Whole Wide World (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Angry (A+ Ranking)",
+		"region": "The Rolling Stones",
+		"category": ["The Rolling Stones"],
+		"requires": []
+	  },
+	  {
+		"name": "Around the World / Harder Better Faster Stronger (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Da Funk / Daftendirekt (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Get Lucky (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Harder, Better, Faster, Stronger (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Lose Yourself to Dance (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "One More Time (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Technologic (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "The Prime Time of Your Life (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	  {
+		"name": "Veridis Quo (A+ Ranking)",
+		"region": "Daft Punk",
+		"category": ["Daft Punk"],
+		"requires": []
+	  },
+	{
 		"name": "Cleared!",
 		"victory": true,
 		"category": ["Victory"],
