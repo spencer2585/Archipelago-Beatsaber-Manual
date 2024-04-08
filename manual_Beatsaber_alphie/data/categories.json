@@ -1,0 +1,66 @@
+{
+    "Monstercat": {
+        "yaml_option": ["Monstercat_Vol_1_DLC"]
+    },
+    "Imagine Dragons": {
+        "yaml_option": ["Imagine_Dragons_DLC"]
+    },
+    "Panic at the Disco": {
+        "yaml_option": ["Panic_at_the_Disco_DLC"]
+    },
+    "Rocket League": {
+        "yaml_option": ["Rocket_League_DLC"]
+    },
+    "Green Day": {
+        "yaml_option": ["Green_Day_DLC"]
+    },
+    "Timbaland": {
+        "yaml_option": ["Timbaland_DLC"]
+    },
+    "Linkin Park": {
+        "yaml_option": ["Linkin_Park_DLC"]
+    },
+    "BTS": {
+        "yaml_option": ["BTS_DLC"]
+    },
+    "Interscope Mixtape": {
+        "yaml_option": ["Interscope_Mixtape_DLC"]
+    },
+    "Skrillex": {
+        "yaml_option": ["Skrillex_DLC"]
+    },
+    "Billie Eilish": {
+        "yaml_option": ["Billie_Eilish_DLC"]
+    },
+    "Lady Gaga": {
+        "yaml_option": ["Lady_Gaga_DLC"]
+    },
+    "Fall Out Boy": {
+        "yaml_option": ["Fall_Out_Boy_DLC"]
+    },
+    "Electronic Mixtape": {
+        "yaml_option": ["Electronic_Mixtape_DLC"]
+    },
+    "Lizzo": {
+        "yaml_option": ["Lizzo_DLC"]
+    },
+    "The Weeknd": {
+        "yaml_option": ["The_Weeknd_DLC"]
+    },
+    "Rock Mixtape": {
+        "yaml_option": ["Rock_Mixtape_DLC"]
+    },
+    "Queen": {
+        "yaml_option": ["Queen_DLC"]
+    },
+    "Mike Shinoda": {
+        "yaml_option": ["Mike_Shinoda_DLC"]
+    },
+    "The Rolling Stones": {
+        "yaml_option": ["The_Rolling_Stones_DLC"]
+    },
+    "Daft Punk": {
+        "yaml_option": ["Daft_Punk_DLC"]
+    }
+}
+
