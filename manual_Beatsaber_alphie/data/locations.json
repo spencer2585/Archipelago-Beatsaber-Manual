@@ -2747,6 +2747,114 @@
 		"category": ["Daft Punk"],
 		"requires": []
 	  },
+	  {
+		"name": "All Eyez On Me (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "All Eyez On Me (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "Anaconda (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "Anaconda (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "Gin and Juice (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "Gin and Juice (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "Godzilla (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "Godzilla (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "Hey Ya! (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "Hey Ya! (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "Hypnotize (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "Hypnotize (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "Nuthin' But A G Thang (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "Nuthin' But A G Thang (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "The Message (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "The Message (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
+	{
+		"name": "The Woo (A+ Ranking)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	  },
+	  {
+		"name": "The Woo (Pass)",
+		"region": "Hip Hop Mixtape",
+		"category": ["Hip Hop Mixtape"],
+		"requires": []
+	},
 	{
 		"name": "Cleared!",
 		"victory": true,

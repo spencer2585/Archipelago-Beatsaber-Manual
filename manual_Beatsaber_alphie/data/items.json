@@ -178,5 +178,11 @@
 			"name": "Daft Punk Unlock",
 			"category": ["Pack Unlocks","Daft Punk"],
 			"progression": true
+		},
+		{
+			"count": "1",
+			"name": "Hip Hop Mixtape Unlock",
+			"category": ["Pack Unlocks","Hip Hop Mixtape"],
+			"progression": true
 		}
 ]

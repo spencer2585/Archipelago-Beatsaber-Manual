@@ -205,3 +205,8 @@ Manual_Beatsaber_Alphie:
     # Whether or not to enable Daft Punk DLC Songs
     false: 0
     true: 50
+
+  Hip_Hop_Mixtape_DLC:
+    # Whether or not to enable Hip Hop Mixtape DLC Songs
+    false: 0
+    true: 50
