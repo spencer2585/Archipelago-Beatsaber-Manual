@@ -26,14 +26,14 @@
 	{
 		"name": "Beat Saber (Pass)",
 		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
+		"category": ["Boss Song","OST 1"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Beat Saber (A+ Ranking)",
 		"region": "OST Vol. 1",
-		"category": ["OST 1"],
-		"requires": []
+		"category": ["Boss Song","OST 1"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Breezer (Pass)",
@@ -170,14 +170,14 @@
 	{
 		"name": "Unlimited Power (Pass)",
 		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
+		"category": ["Boss Song","OST 2"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Unlimited Power (A+ Ranking)",
 		"region": "OST Vol. 2",
-		"category": ["OST 2"],
-		"requires": []
+		"category": ["Boss Song","OST 2"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Origins (Pass)",
@@ -242,14 +242,14 @@
 	{
 		"name": "Burning Sands (Pass)",
 		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
+		"category": ["Boss Song","OST 3"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Burning Sands (A+ Ranking)",
 		"region": "OST Vol. 3",
-		"category": ["OST 3"],
-		"requires": []
+		"category": ["Boss Song","OST 3"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Into the Dream (Pass)",
@@ -290,14 +290,14 @@
 	{
 		"name": "Spin Eternally (Pass)",
 		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
+		"category": ["Boss Song","OST 4"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Spin Eternally (A+ Ranking)",
 		"region": "OST Vol. 4",
-		"category": ["OST 4"],
-		"requires": []
+		"category": ["Boss Song","OST 4"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "$1.78 (Pass)",
@@ -326,14 +326,14 @@
 	{
 		"name": "Final-Boss-Chan (Pass)",
 		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
+		"category": ["Boss Song","OST 5"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Final-Boss-Chan (A+ Ranking)",
 		"region": "OST Vol. 5",
-		"category": ["OST 5"],
-		"requires": []
+		"category": ["Boss Song","OST 5"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Firestarter (Pass)",
@@ -374,14 +374,14 @@
 	{
 		"name": "$100 Bills (Camellia's \"215$-Step\" Remix) (Pass)",
 		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
+		"category": ["Boss Song","Extras"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "$100 Bills (Camellia's \"215$-Step\" Remix) (A+ Ranking)",
 		"region": "Extras",
-		"category": ["Extras"],
-		"requires": []
+		"category": ["Boss Song","Extras"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Escape Remix (Pass)",
@@ -470,14 +470,14 @@
 	{
 		"name": "Ghost (Pass)",
 		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
+		"category": ["Boss Song","Camellia"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Ghost (A+ Ranking)",
 		"region": "Camellia",
-		"category": ["Camellia"],
-		"requires": []
+		"category": ["Boss Song","Camellia"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Light it up (Pass)",
@@ -566,14 +566,14 @@
 	{
 		"name": "Power of the Saber Blade (Pass)",
 		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
-		"requires": []
+		"category": ["Boss Song","OST Vol. 6"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Power of the Saber Blade (A+ Ranking)",
 		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
-		"requires": []
+		"category": ["Boss Song","OST Vol. 6"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Tempo-Katana (Pass)",
@@ -2857,6 +2857,7 @@
 	},
 	{
 		"name": "Cleared!",
+		"region": "Victory",
 		"victory": true,
 		"category": ["Victory"],
 		"requires": "|Bloq:20|"

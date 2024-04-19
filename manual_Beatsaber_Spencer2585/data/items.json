@@ -1,6 +1,6 @@
 [
 	{
-		"count": "35",
+		"count": "30",
 		"name": "Bloq",
 		"category": ["Bloqs"],
 		"progression": true
@@ -184,5 +184,47 @@
 			"name": "Hip Hop Mixtape Unlock",
 			"category": ["Pack Unlocks","Hip Hop Mixtape"],
 			"progression": true
+		},
+		{
+			"count": "10",
+			"name": "Difficulty Down",
+			"category": ["Modifiers"],
+			"useful": true
+		},
+		{
+			"count": "15",
+			"name": "No Bombs",
+			"category": ["Modifiers"],
+			"useful": true
+		},
+		{
+			"count": "15",
+			"name": "No Walls",
+			"category": ["Modifiers"],
+			"useful": true
+		},
+		{
+			"count": "10",
+			"name": "Slower Song",
+			"category": ["Modifiers"],
+			"useful": true
+		},
+		{
+			"count": "3",
+			"name": "Faster Song",
+			"category": ["Modifiers"],
+			"trap": true
+		},
+		{
+			"count": "5",
+			"name": "Disapering Arrows",
+			"category": ["Modifiers"],
+			"trap": true
+		},
+		{
+			"count": "2",
+			"name": "Small Notes",
+			"category": ["Modifiers"],
+			"trap": true
 		}
 ]

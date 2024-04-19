@@ -121,5 +121,9 @@
 	"Hip Hop Mixtape": {
 		"connects_to": ["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk"],
 		"requires": "|Hip Hop Mixtape Unlock|"
+	},
+	"Victory":{
+		"connects_to":["OST Vol. 1", "OST Vol. 2", "OST Vol. 3", "OST Vol. 4", "OST Vol. 5", "OST Vol. 6", "Extras", "Camellia", "Rock Mixtape", "Imagine Dragons", "The Weeknd", "Monstercat", "Rocket League", "BTS", "Interscope Mixtape", "Skrillex", "Billie Eilish", "Lady Gaga", "Fall Out Boy", "Electronic Mixtape", "Lizzo", "Panic at the Disco", "Green Day", "Timbaland", "Linkin Park", "Queen", "Mike Shinoda", "The Rolling Stones", "Daft Punk","Hip Hop Mixtape"],
+		"requires": "|@Pack Unlocks:5|"
 	}
 }
