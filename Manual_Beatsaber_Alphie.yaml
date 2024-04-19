@@ -101,6 +101,46 @@ Manual_Beatsaber_Alphie:
     random-low: 0
     random-high: 0
 
+  OST_Vol_1:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  OST_Vol_2:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  OST_Vol_3:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  OST_Vol_4:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  OST_Vol_5:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  OST_Vol_6:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  Extras:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
+  Camellia:
+    # Whether or not to enable Monstercat Vol:1 DLC Songs
+    false: 0
+    true: 50
+
   Monstercat_Vol_1_DLC:
     # Whether or not to enable Monstercat Vol:1 DLC Songs
     false: 0

@@ -1,4 +1,28 @@
 {
+    "OST 1": {
+        "yaml_option": ["OST_Vol_1"]
+    },
+    "OST 2": {
+        "yaml_option": ["OST_Vol_2"]
+    },
+    "OST 3": {
+        "yaml_option": ["OST_Vol_3"]
+    },
+    "OST 4": {
+        "yaml_option": ["OST_Vol_4"]
+    },
+    "OST 5": {
+        "yaml_option": ["OST_Vol_5"]
+    },
+    "OST Vol. 6": {
+        "yaml_option": ["OST_Vol_6"]
+    },
+    "Extras": {
+        "yaml_option": ["Extras"]
+    },
+    "Camellia": {
+        "yaml_option": ["Camellia"]
+    },
     "Monstercat": {
         "yaml_option": ["Monstercat_Vol_1_DLC"]
     },
