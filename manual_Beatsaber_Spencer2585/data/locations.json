@@ -535,56 +535,56 @@
 	},
 	{
 		"name": "Cathedral (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
 		"name": "Heavy Weight (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
 		"name": "Heavy Weight (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
 		"name": "Lift Off (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
 		"name": "Lift Off (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
 		"name": "Power of the Saber Blade (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["Boss Song","OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["Boss Song","OST 6"],
 		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Power of the Saber Blade (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["Boss Song","OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["Boss Song","OST 6"],
 		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Tempo-Katana (Pass)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
 		"name": "Tempo-Katana (A+ Ranking)",
-		"region": "OST Vol. 6",
-		"category": ["OST Vol. 6"],
+		"region": "OST 6",
+		"category": ["OST 6"],
 		"requires": []
 	},
 	{
