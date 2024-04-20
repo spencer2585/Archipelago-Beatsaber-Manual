@@ -638,14 +638,14 @@
 	{
 		"name": "Overkill (Pass)",
 		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
+		"category": ["Boss Song","Monstercat"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Overkill (A+ Ranking)",
 		"region": "Monstercat",
-		"category": ["Monstercat"],
-		"requires": []
+		"category": ["Boss Song","Monstercat"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Rattlesnake (Pass)",
@@ -758,14 +758,14 @@
 	{
 		"name": "Shiawase (Pass)",
 		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
+		"category": ["Boss Song","Rocket League"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Shiawase (A+ Ranking)",
 		"region": "Rocket League",
-		"category": ["Rocket League"],
-		"requires": []
+		"category": ["Boss Song","Rocket League"],
+		"requires": ["Bloq:20"]
 	},
 	{
 		"name": "Test Me (Pass)",
