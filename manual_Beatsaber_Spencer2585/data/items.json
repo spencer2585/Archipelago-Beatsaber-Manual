@@ -37,6 +37,12 @@
 	},
 	{
 		"count": "1",
+		"name": "OST 7 Unlock",
+		"category": ["Pack Unlocks"],
+		"progression": true
+	},
+	{
+		"count": "1",
 		"name": "Extras Unlock",
 		"category": ["Pack Unlocks"],
 		"progression": true

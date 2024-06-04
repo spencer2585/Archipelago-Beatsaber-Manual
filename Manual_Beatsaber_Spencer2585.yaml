@@ -131,6 +131,11 @@ Manual_Beatsaber_Spencer2585:
     false: 0
     true: 50
 
+  OST_Vol_7:
+    # Whether or not to enable OST Vol 7 Songs
+    false: 0
+    true: 50
+
   Extras:
     # Whether or not to enable Monstercat Vol:1 DLC Songs
     false: 0

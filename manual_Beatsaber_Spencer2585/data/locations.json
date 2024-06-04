@@ -2856,6 +2856,66 @@
 		"requires": []
 	},
 	{
+		"name": "F.O.O.L (Pass)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "F.O.O.L (A+ Ranking)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "Lusture (Pass)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "Lusture (A+ Ranking)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "The Master (Pass)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "The Master (A+ Ranking)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "Untamed (Pass)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "Untamed (A+ Ranking)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "World Wide Web (Pass)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
+		"name": "World Wide Web (A+ Ranking)",
+		"region": "OST Vol. 7",
+		"category": ["OST 7"],
+		"requires": []
+	},
+	{
 		"name": "Cleared!",
 		"region": "Victory",
 		"victory": true,
